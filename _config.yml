@@ -15,6 +15,5 @@ twitter_username:
 github_username:  jgte
 
 # Build settings
-# markdown: kramdown
-markdown: redcarpet
+markdown: kramdown
 pygments: true
