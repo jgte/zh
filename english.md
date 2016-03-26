@@ -9,8 +9,11 @@ permalink: /en/
 * [Emergency contacts](#emergency-contacts)
 * [Useful locations](#useful-locations)
 * [Safety](#safety)
+* [Appliances and services](#appliances-and-services)
+# [Operations](#operations)
 * [Getting there](#getting-there)
 * [Festival Sudoeste](#festival-sudoeste)
+
 
 
 # Emergency contacts
@@ -51,7 +54,6 @@ Be aware that the bathtubs (on both toilet rooms) are extremely slippery when we
 
 On the toilet room of the ground floor, there is first aid supplies to the right, immediately after the front door.
 
-
 # Appliances and services
 
 * Kitchen
@@ -60,10 +62,15 @@ On the toilet room of the ground floor, there is first aid supplies to the right
   * Dish washer
   * Microwave
   * Toaster
+* Hot water on the kitchen and both toilets
 * Washing machine (toilet room on the ground floor)
 * TV (TV room)
 * Coffee machine (dinning room, use [these coffee capsules](https://www.mydeltaq.com/capsulas.aspx), can be bought at the big supermarket in São Teotónio)
 * Wireless (throughout the house, SSID: *Lajinha*, contact me to get the password)
+
+# External areas
+
+You have access to the terrace, the balcony upstairs and the yard in front of the house (between the street and the western wall of the house). The driveway on the south and the yard on the east are only for emergency. The external kitchen door leads to the eastern yard, you can find the key of the lock hanging on the wall to the left of this door. You may also access the gas storage, if needed, see the [section on operating the gas supply](#gas).
 
 # Operations
 
@@ -84,10 +91,47 @@ On the toilet room of the ground floor, there is first aid supplies to the right
 3. Open the soap container located on the top left of the front panel.
 4. Fill the soap and softener compartments, and the chlorine compartment if needed.
 5. Close the soap container.
-6. Push the round button immediately to the right of the soap container.
-7. Rotate the dial to select the appropriate washing program. Check this [picture](http://jgte.github.io/zh/maquina_de_lavar1.png) and this [picture](http://jgte.github.io/zh/maquina_de_lavar2.png), showing the meaning of the symbols printed in the washing machine (in Portuguese).
-1. Connect the power cord to the power socket on the wall behind the washing machine.
-2
+6. Connect the power cord to the power socket on the wall behind the washing machine.
+7. Push the round button immediately to the right of the soap container.
+8. Rotate the dial to select the appropriate washing program. Check this [picture](http://jgte.github.io/zh/images/maquina_de_lavar1.png) and this [picture](http://jgte.github.io/zh/images/maquina_de_lavar2.png), showing the meaning of the symbols printed in the washing machine (in Portuguese). Blue is for cotton clothes, yellow is for synthetic clothes and black is for woollen clothes, in decreasing order of program length and washing intensity. The time it takes to finish the program is shown on the led panel.
+9. Push the small diamond-shaped button on the far right. After a couple of seconds, it should start making noises.
+10. After the program finishes, turn off the machine by pressing the round button, disconnect the power cord from the power socket and open the glass door.
+
+## Main water valve
+
+On the external southern wall of the house, close to the South-western corner, there is a small white plastic panel covering the valve that turns off the water in the whole house. If you exit through the front door, turn immediately to the left, go around the corner and you should see this white plastic panel a roughly waste height.
+
+## Main electricity switches
+
+On the right wall immediately after entering through the front door, there is a painting hanging on the wall. This painting is covering the electric switch board. There is a warning sign below.
+
+The panel is divided into three sections: from left to right you will see:
+
+1. three old-looking push buttons on top and the main electric switch on the bottom;
+2. two modern-looking switches;
+3. the electricity counter.
+
+The useful part of the panel is the first one. The three push buttons, from left to right, control the following:
+
+1. Lights and power sockets on the ground floor, except washing machines and the storage room under the stairs;
+2. Washing machined;
+3. Lights and power sockets on the top floor and the storage room under the stairs.
+
+The big switch below the three push button cuts the power to the whole house.
+
+## Gas
+
+The hot water, stove and oven are heated with gap (propane). The gas tube comes from a small storage room outside the kitchen, to the right of the external kitchen door (use the key hanging to the left of the kitchen door to unlock it). It enters the kitchen close to the sink and travels to the stove above the counter. On this tube you will find a couple of yellow valves. If these valves are aligned with the direction of the tube, they are open. If they are perpendicular to the direction of the tube, they are cutting the flow of gas. Be sure to open these valves before operating the stove or using the hot water.
+
+To access the gas tanks, you simply open the door of the small storage room outside of the kitchen. Inside you will see [this](http://jgte.github.io/zh/images/gas.jpg). These are 40 litres propane tanks and they should last for a long time. In case you run out of gas, chances are that the unused tank is full. All you need to do is switch the supply to that tank:
+
+1. Close the yellow valve leading to the tank in use, i.e. the valve that is currently open. You do this by rotating the valve so that is becomes perpendicular to the pipe (like the valve on the left, in [this](http://jgte.github.io/zh/images/gas.jpg) picture);
+2. Open the yellow valve leasing to the other tank.
+
+**Do not open both valves at the same time.** This will spill gas between the tanks, making it likely that both tanks need to be replaced at the same time and preventing you from having hot water for a period of time.
+
+After doing this, please inform *Sra. Zina Sirooka* so that she can order a new gas tank to replace the depleted one.
+
 
 # Getting there
 
@@ -146,6 +190,10 @@ Be sure the check the schedules at the website of [*Rede Expressos*](http://www.
 
 The bus stop in Zambujeira is [300 m away](https://goo.gl/maps/JDVFLLizMt32) from *Alojamento da Rua da Fonte*.
 
+
+# Parking
+
+Park the car on the street, in front of the house. It is not possible to park the car in the driveway south of the house. During the summer, there many cars and it might not be easy to park in front of the house. There are, however, many parking places in the streets surrounding.
 
 # Festival Sudoeste
 
