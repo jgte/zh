@@ -11,7 +11,7 @@ person: João Encarnação
 email: j_encarnacao@yahoo.com
 telephone: 962 801 954
 description: > # this means to ignore newlines until "baseurl:"
-  Description.
+  This is a guide to various aspects relevant to your stay at Alojamento da Rua da Fonte.
 baseurl: "/zh" # the subpath of your site, e.g. /blog
 url: "http://jgte.github.io" # the base hostname & protocol for your site
 # twitter_username: jekyllrb
