@@ -10,7 +10,16 @@ permalink: /en/
 * [Useful locations](#useful-locations)
 * [Safety](#safety)
 * [Appliances and services](#appliances-and-services)
-# [Operations](#operations)
+* [Operations](#operations)
+  * [Dishwasher](#dishwasher)
+  * [Microwaves and toaster](#microwaves-and-toaster)
+  * [Washing machine](#washing-machine)
+  * [Coffee machine](#coffee-machine)
+  * [TV](#tv)
+  * [Light switches on the ground floor](#light-switches-on-the-ground-floor)
+  * [Main water valve](#main-water-valve)
+  * [Main electricity switches](#main-electricity-switches)
+  * [Gas](#gas)
 * [Getting there](#getting-there)
 * [Festival Sudoeste](#festival-sudoeste)
 
@@ -50,7 +59,7 @@ The village of Zambujeira do Mar is a quiet and peaceful community; robberies ar
 
 Do not grant access to the house to anyone, including someone claiming to be me or to be acting on my behalf. The obvious exceptions are your host *Sra. Zina Sirooka*, who you met when you arrived (or anyone accompanying her), and the police (most likely from the [GNR](http://www.gnr.pt) *Guarda Nacional Republicana* -- National Republican Guard -- who wears [characteristic uniforms](https://www.google.pt/search?q=farda+da+guarda+nacional+republicana&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjum6Kdx97LAhWHchQKHY8ZDtYQ_AUIBygB&biw=1358&bih=650)). Less obvious is to allow access to workers from the electricity company [EDP](http://www.edp.pt), who must be wearing a uniform and able to present identification, so that they can read the electricity counter on the wall to the right, immediately after the front door. There is no need to let them any further than the hall next to the front door.
 
-Be aware that the bathtubs (on both toilet rooms) are extremely slippery when wet. Do not climb inside without first setting the rubber mat. If the rubber mat is missing, contact *Sra. Zina Sirooka* to get a replacement.
+Be aware that the bathtubs (on both toilet rooms) are extremely slippery when wet. Do not climb inside without first setting the rubber mat. If the rubber mat is missing, contact *Sra. Zina Sirooka* to get a replacement. Please use the bathtub on the other toilet room until the new rubber mat is available.
 
 On the toilet room of the ground floor, there is first aid supplies to the right, immediately after the front door.
 
@@ -59,13 +68,13 @@ On the toilet room of the ground floor, there is first aid supplies to the right
 * Kitchen
   * Stove and oven (gas)
   * Fridge and freezer
-  * Dish washer
+  * Dishwasher
   * Microwave
   * Toaster
 * Hot water on the kitchen and both toilets
 * Washing machine (toilet room on the ground floor)
 * TV (TV room)
-* Coffee machine (dinning room, use [these coffee capsules](https://www.mydeltaq.com/capsulas.aspx), can be bought at the big supermarket in São Teotónio)
+* Coffee machine (dinning room)
 * Wireless (throughout the house, SSID: *Lajinha*, contact me to get the password)
 
 # External areas
@@ -84,6 +93,10 @@ You have access to the terrace, the balcony upstairs and the yard in front of th
 7. Turn on the power using the red switch on the multiple power sockets, which is resting on top of the dishwasher, on the far right corner. The red switch will be lit, indicating that electricity is flowing and the microwave will beep (since it too is connected to this multiple power socket). Be sure to disconnect the toaster (by yanking the respective power cord).
 6. Pull the button on the dishwasher out. It should start making noises.
 
+## Microwaves and toaster
+
+As mentioned before, there is the need to turn on the switch at the multiple power socket that is resting on the dishwasher before the microwave and toaster can be used. Note that the toaster does not have an off switch, that is effectively done by unplugging it from electricity. If you only want to operate the microwave or the dishwasher, please be sure that the toaster is disconnected from electricity.
+
 ## Washing machine
 
 1. Load the dirty clothes in the machine (do not over-fill it, otherwise it will not start).
@@ -97,9 +110,50 @@ You have access to the terrace, the balcony upstairs and the yard in front of th
 9. Push the small diamond-shaped button on the far right. After a couple of seconds, it should start making noises.
 10. After the program finishes, turn off the machine by pressing the round button, disconnect the power cord from the power socket and open the glass door.
 
+## Coffee machine
+
+1. Make sure there is water in the container located at the back (you may remove this container or fill it while attached).
+2. Be sure the machine is plugged in to electricity.
+3. Press the button on the left, at the top of the machine. This will turn on the machine, as indicated by the red light next to this button, and it will start heating the water.
+4. Open the coffee capsule entry buy flipping up the lid on the front, at the top of the machine. You should hear the previous coffee capsule fall to the collecting container.
+5. Insert the new coffee capsule, minding the grooves on the machine and the shape of the capsule. Be sure that it falls as far down as it can go, without pushing with force.
+6. Close the lid. You may need to wiggle the lid in order for it to engage the coffee capsule properly.
+7. Open the shelve that will hold the coffee cup (if not done already).
+8. Place the coffee cup on the shelve.
+9. Wait for the green led to be lit, located next to the button on the right, on the top of the machine. This means that the water is sufficiently hot.
+10. Press the button next to the green led. Coffee will start flowing.
+11. Once you have enough coffee, press the green button. This wills top the flow of coffee.
+
+You can find [the correct coffee capsules](https://www.mydeltaq.com/capsulas.aspx) at the big supermarket in São Teotónio.
+
+## TV
+
+The TV only shows the *open signal* TV stations. They are all Portuguese although you may find programs in English (or any other language for that matter). In Portugal, foreign TV shows are subtitled (except for children shows). The following channels are available:
+
+* [RTP1](http://www.rtp.pt/play/direto/rtp1)
+* [RTP2](http://www.rtp.pt/play/direto/rtp2)
+* [SIC](http://sic.sapo.pt)
+* [TVI](http://www.tvi.iol.pt)
+
+To turn on the TV, follow these steps:
+
+1. Make sure the TV and the decoder (the black box next to the TV) are powered.
+2. Pick the remote and press the big red button (standby/on), while pointing the remote to the decoder. The red and green lights start flickering
+3. Turn on the TV by touching the on/off light (I have marked this area because it's difficult to see during the day). There should be an image saying that the signal is getting acquired. After 30 seconds or so, the lights in the decoder stop flickering and only the green light will be on. At the time, the TV picture should be seen on the TV.
+4. Use the remote to change channels.
+
+If there is no sound, turn off the TV and then turn it on again. If that doesn't work, do the same to the decoder, by pressing the big red button (standby/on) on the decoder.
+
+## Light switches on the ground floor
+
+The light switches on the ground floor 50 years old. This means they sometimes might be a little stubborn to work as expected, but they are all operational. If you flick the switch and the light doesn't come on (or off), old the lever in the switch and wiggle it sideways. This will help release the spring inside and the switch will work as expected.
+
 ## Main water valve
 
 On the external southern wall of the house, close to the South-western corner, there is a small white plastic panel covering the valve that turns off the water in the whole house. If you exit through the front door, turn immediately to the left, go around the corner and you should see this white plastic panel a roughly waste height.
+
+Please contact *Sra. Zina Sirooka* if you need assistance.
+
 
 ## Main electricity switches
 
@@ -119,6 +173,9 @@ The useful part of the panel is the first one. The three push buttons, from left
 
 The big switch below the three push button cuts the power to the whole house.
 
+Please contact *Sra. Zina Sirooka* if you need assistance.
+
+
 ## Gas
 
 The hot water, stove and oven are heated with gap (propane). The gas tube comes from a small storage room outside the kitchen, to the right of the external kitchen door (use the key hanging to the left of the kitchen door to unlock it). It enters the kitchen close to the sink and travels to the stove above the counter. On this tube you will find a couple of yellow valves. If these valves are aligned with the direction of the tube, they are open. If they are perpendicular to the direction of the tube, they are cutting the flow of gas. Be sure to open these valves before operating the stove or using the hot water.
@@ -128,9 +185,9 @@ To access the gas tanks, you simply open the door of the small storage room outs
 1. Close the yellow valve leading to the tank in use, i.e. the valve that is currently open. You do this by rotating the valve so that is becomes perpendicular to the pipe (like the valve on the left, in [this](http://jgte.github.io/zh/images/gas.jpg) picture);
 2. Open the yellow valve leasing to the other tank.
 
-**Do not open both valves at the same time.** This will spill gas between the tanks, making it likely that both tanks need to be replaced at the same time and preventing you from having hot water for a period of time.
+**Do not open both valves at the same time.** This will spill gas between the tanks, making it likely that both tanks need to be replaced at the same time and possibly preventing you from having hot water for a period of time.
 
-After doing this, please inform *Sra. Zina Sirooka* so that she can order a new gas tank to replace the depleted one.
+Please inform *Sra. Zina Sirooka* when a gas tank is empty so that she can order a new one to replace the depleted one.
 
 
 # Getting there
@@ -163,13 +220,13 @@ Let me know if you need help travelling form locations other than Lisbon.
 
 11. After 5 km, you come across a junction, take the right towards **Zambujeira**. Keep going straight and ignore the left turn towards **S. Teotónio**.
 
-12. At the end of roughly 1 km of straight road going West, you'll be in Zambujeira. Follow straight until you can only take a right turn, towards North.
+12. At the end of roughly 1 km of straight road going West, you'll be in **Zambujeira**. Go straight until you can only take a right turn, towards North.
 
 13. Take the first left turn, towards West; you should be seeing the ocean at a distance.
 
 14. Keep going straight until you find a roundabout, take the right exit, going North.
 
-15. After 20 m, there's a crossing and one house further you'll see *Alojamento da Rua da Fonte* on the right. It's a bit confusing that the first house on the corner is nr. 3 (while *Alojamento da Rua da Fonte* is further down the street and it's nr. 1) that's how things work in Alentejo sometimes.
+15. After 20m, there's a crossing and one house further you'll see *Alojamento da Rua da Fonte* on the right. It's a bit confusing that the first house on the corner is nr. 3 (while *Alojamento da Rua da Fonte* is further down the street and it's nr. 1) that's how things work in Alentejo sometimes.
 
 A map of this route can be found [here](https://goo.gl/maps/ZKu7BLoePPE2).
 
@@ -193,7 +250,7 @@ The bus stop in Zambujeira is [300 m away](https://goo.gl/maps/JDVFLLizMt32) fro
 
 # Parking
 
-Park the car on the street, in front of the house. It is not possible to park the car in the driveway south of the house. During the summer, there many cars and it might not be easy to park in front of the house. There are, however, many parking places in the streets surrounding.
+Park the car on the street, in front of the house. It is not possible to park the car in the driveway south of the house. During the summer, there are many cars and it might not be easy to park in front of the house. There are, however, many parking places in the surrounding streets.
 
 # Festival Sudoeste
 
