@@ -9,8 +9,7 @@ permalink: /en/
 * [Emergency contacts](#emergency-contacts)
 * [Useful locations](#useful-locations)
 * [Safety](#safety)
-* [Appliances, services and operations](#appliances-services-and-operations)
-  * [WiFi internet](#wifi-internet)
+* [Appliances](#appliances)
   * [Dishwasher](#dishwasher)
   * [Stove and oven](#stove-and-oven)
   * [Microwaves and toaster](#microwaves-and-toaster)
@@ -18,7 +17,10 @@ permalink: /en/
   * [Washing machine](#washing-machine)
   * [Coffee machine](#coffee-machine)
   * [TV](#tv)
+* [Services](#services)
+  * [WiFi internet](#wifi-internet)
   * [Hot water](#hot-water)
+* [Operations](#operations)
   * [Light switches on the ground floor](#light-switches-on-the-ground-floor)
   * [Main water valve](#main-water-valve)
   * [Main electricity switches](#main-electricity-switches)
@@ -68,11 +70,7 @@ On the toilet room of the ground floor, there is first aid supplies to the right
 
 You have access to the terrace, the balcony upstairs and the yard in front of the house (between the street and the western wall of the house). The driveway on the south and the yard on the east are only for emergency. The external kitchen door leads to the eastern yard, you can find the key of the lock hanging on the wall to the left of this door. You may also access the gas storage, if needed, see the section on operating the [gas](#gas) supply.
 
-# Appliances, services and operations
-
-## WiFi internet
-
-There is WiFi internet throughout the house. The SSID is *Lajinha* and contact me to get the password. The traffic is limited to 7Gb/month, so it may run out. If that is the case, the internet access is still working but at a much lower speed. During the summer months, the influx of tourists causes the network to overload and the speed might not be as high as expected.
+# Appliances
 
 ## Stove and oven
 
@@ -146,6 +144,12 @@ To turn on the TV, follow these steps:
 
 If there is no sound, turn off the TV and then turn it on again. If that doesn't work, do the same to the decoder, by pressing the big red button (standby/on) on the decoder.
 
+# Services
+
+## WiFi internet
+
+There is WiFi internet throughout the house. The SSID is *Lajinha* and contact me to get the password. The traffic is limited to 7Gb/month, so it may run out. If that is the case, the internet access is still working but at a much lower speed. During the summer months, the influx of tourists causes the network to overload and the speed might not be as high as expected.
+
 ## Hot water
 
 Hot water is available in both toilet rooms and in the kitchen, provided by the water heater above the kitchen sinks. The water heater is automatic, meaning it will turn on whenever a hot water tap is opened. Note that it can take a minute or so before hot water reaches the toilet room upstairs. Make sure the yellow valve is open before using hot water. Refer to the section on [gas](#gas) for more information about the gas supply.
@@ -153,6 +157,8 @@ Hot water is available in both toilet rooms and in the kitchen, provided by the 
 The water heater has a safety feature which prevents operation when the carbon dioxide concentration is too high. Although the exhaust of the water heater is diverted outside through a dedicated conduct, it may happen during stormy or windy conditions that the exhaust gases have difficulty flowing out, and the gas heater will stop working. If that is the case, open the kitchen window and external door (unlock it with the key hanging on the wall to the left of the door), close the internal door and wait for 10 minutes before trying again. Once the kitchen is ventilated (which fortunately happens quickly when windy), the gas heater will start working again.
 
 There are some controls on the water heater but they only control how hot the water gets. There is an on/off button but it should never be off.
+
+# Operations
 
 ## Light switches on the ground floor
 
