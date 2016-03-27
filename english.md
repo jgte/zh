@@ -9,21 +9,22 @@ permalink: /en/
 * [Emergency contacts](#emergency-contacts)
 * [Useful locations](#useful-locations)
 * [Safety](#safety)
-* [Appliances and services](#appliances-and-services)
-* [Operations](#operations)
+* [Appliances, services and operations](#appliances-services-and-operations)
+  * [WiFi internet](#wifi-internet)
   * [Dishwasher](#dishwasher)
+  * [Stove and oven](#stove-and-oven)
   * [Microwaves and toaster](#microwaves-and-toaster)
+  * [Fridge and freezer](#fridge-and-freezer)
   * [Washing machine](#washing-machine)
   * [Coffee machine](#coffee-machine)
   * [TV](#tv)
+  * [Hot water](#hot-water)
   * [Light switches on the ground floor](#light-switches-on-the-ground-floor)
   * [Main water valve](#main-water-valve)
   * [Main electricity switches](#main-electricity-switches)
   * [Gas](#gas)
 * [Getting there](#getting-there)
 * [Festival Sudoeste](#festival-sudoeste)
-
-
 
 # Emergency contacts
 
@@ -63,25 +64,19 @@ Be aware that the bathtubs (on both toilet rooms) are extremely slippery when we
 
 On the toilet room of the ground floor, there is first aid supplies to the right, immediately after the front door.
 
-# Appliances and services
-
-* Kitchen
-  * Stove and oven (gas)
-  * Fridge and freezer
-  * Dishwasher
-  * Microwave
-  * Toaster
-* Hot water on the kitchen and both toilets
-* Washing machine (toilet room on the ground floor)
-* TV (TV room)
-* Coffee machine (dinning room)
-* Wireless (throughout the house, SSID: *Lajinha*, contact me to get the password)
-
 # External areas
 
-You have access to the terrace, the balcony upstairs and the yard in front of the house (between the street and the western wall of the house). The driveway on the south and the yard on the east are only for emergency. The external kitchen door leads to the eastern yard, you can find the key of the lock hanging on the wall to the left of this door. You may also access the gas storage, if needed, see the [section on operating the gas supply](#gas).
+You have access to the terrace, the balcony upstairs and the yard in front of the house (between the street and the western wall of the house). The driveway on the south and the yard on the east are only for emergency. The external kitchen door leads to the eastern yard, you can find the key of the lock hanging on the wall to the left of this door. You may also access the gas storage, if needed, see the section on operating the [gas](#gas) supply.
 
-# Operations
+# Appliances, services and operations
+
+## WiFi internet
+
+There is WiFi internet throughout the house. The SSID is *Lajinha* and contact me to get the password. The traffic is limited to 7Gb/month, so it may run out. If that is the case, the internet access is still working but at a much lower speed. During the summer months, the influx of tourists causes the network to overload and the speed might not be as high as expected.
+
+## Stove and oven
+
+The stove and oven in the kitchen are powered by gas. See the section on [gas](#gas) for further details, in case it is not possible to use it. There is no in-built igniter, so you'll need to use the matches or lighters resting on the small shelve on the top left of the stove.
 
 ## Dishwasher
 
@@ -97,6 +92,10 @@ You have access to the terrace, the balcony upstairs and the yard in front of th
 
 As mentioned before, there is the need to turn on the switch at the multiple power socket that is resting on the dishwasher before the microwave and toaster can be used. Note that the toaster does not have an off switch, that is effectively done by unplugging it from electricity. If you only want to operate the microwave or the dishwasher, please be sure that the toaster is disconnected from electricity.
 
+## Fridge and freezer
+
+The fridge should be fully operational when you arrive. If that is not the case, check that the power plug is connected to the power socket, on the wall to the left of the fridge.
+
 ## Washing machine
 
 1. Load the dirty clothes in the machine (do not over-fill it, otherwise it will not start).
@@ -106,7 +105,10 @@ As mentioned before, there is the need to turn on the switch at the multiple pow
 5. Close the soap container.
 6. Connect the power cord to the power socket on the wall behind the washing machine.
 7. Push the round button immediately to the right of the soap container.
-8. Rotate the dial to select the appropriate washing program. Check this [picture](http://jgte.github.io/zh/images/maquina_de_lavar1.png) and this [picture](http://jgte.github.io/zh/images/maquina_de_lavar2.png), showing the meaning of the symbols printed in the washing machine (in Portuguese). Blue is for cotton clothes, yellow is for synthetic clothes and black is for woollen clothes, in decreasing order of program length and washing intensity. The time it takes to finish the program is shown on the led panel.
+8. Rotate the dial to select the appropriate washing program. The following pictures show the meaning of the symbols printed in the washing machine (in Portuguese).
+![maquina_de_lavar1](http://jgte.github.io/zh/images/maquina_de_lavar1.png)
+![maquina_de_lavar2](http://jgte.github.io/zh/images/maquina_de_lavar2.png)
+Blue is for cotton or linen clothes, yellow is for synthetic clothes and black is for delicate or woollen clothes, in decreasing order of program length and washing intensity. The time it takes to finish the program is shown on the led panel at the front of the washing machine.
 9. Push the small diamond-shaped button on the far right. After a couple of seconds, it should start making noises.
 10. After the program finishes, turn off the machine by pressing the round button, disconnect the power cord from the power socket and open the glass door.
 
@@ -144,16 +146,23 @@ To turn on the TV, follow these steps:
 
 If there is no sound, turn off the TV and then turn it on again. If that doesn't work, do the same to the decoder, by pressing the big red button (standby/on) on the decoder.
 
+## Hot water
+
+Hot water is available in both toilet rooms and in the kitchen, provided by the water heater above the kitchen sinks. The water heater is automatic, meaning it will turn on whenever a hot water tap is opened. Note that it can take a minute or so before hot water reaches the toilet room upstairs. Make sure the yellow valve is open before using hot water. Refer to the section on [gas](#gas) for more information about the gas supply.
+
+The water heater has a safety feature which prevents operation when the carbon dioxide concentration is too high. Although the exhaust of the water heater is diverted outside through a dedicated conduct, it may happen during stormy or windy conditions that the exhaust gases have difficulty flowing out, and the gas heater will stop working. If that is the case, open the kitchen window and external door (unlock it with the key hanging on the wall to the left of the door), close the internal door and wait for 10 minutes before trying again. Once the kitchen is ventilated (which fortunately happens quickly when windy), the gas heater will start working again.
+
+There are some controls on the water heater but they only control how hot the water gets. There is an on/off button but it should never be off.
+
 ## Light switches on the ground floor
 
-The light switches on the ground floor 50 years old. This means they sometimes might be a little stubborn to work as expected, but they are all operational. If you flick the switch and the light doesn't come on (or off), old the lever in the switch and wiggle it sideways. This will help release the spring inside and the switch will work as expected.
+The light switches on the ground floor 50 years old. This means they sometimes might be a little stubborn to work as expected, but they are all operational. If you flick the switch and the light doesn't come on (or off), grab the small lever (the piece that moves) and wiggle it sideways. This will help release the spring inside and the switch will work as expected.
 
 ## Main water valve
 
 On the external southern wall of the house, close to the South-western corner, there is a small white plastic panel covering the valve that turns off the water in the whole house. If you exit through the front door, turn immediately to the left, go around the corner and you should see this white plastic panel a roughly waste height.
 
 Please contact *Sra. Zina Sirooka* if you need assistance.
-
 
 ## Main electricity switches
 
@@ -180,10 +189,16 @@ Please contact *Sra. Zina Sirooka* if you need assistance.
 
 The hot water, stove and oven are heated with gap (propane). The gas tube comes from a small storage room outside the kitchen, to the right of the external kitchen door (use the key hanging to the left of the kitchen door to unlock it). It enters the kitchen close to the sink and travels to the stove above the counter. On this tube you will find a couple of yellow valves. If these valves are aligned with the direction of the tube, they are open. If they are perpendicular to the direction of the tube, they are cutting the flow of gas. Be sure to open these valves before operating the stove or using the hot water.
 
-To access the gas tanks, you simply open the door of the small storage room outside of the kitchen. Inside you will see [this](http://jgte.github.io/zh/images/gas.jpg). These are 40 litres propane tanks and they should last for a long time. In case you run out of gas, chances are that the unused tank is full. All you need to do is switch the supply to that tank:
+To access the gas tanks, you simply open the door of the small storage room outside of the kitchen. Inside you will see this:
 
-1. Close the yellow valve leading to the tank in use, i.e. the valve that is currently open. You do this by rotating the valve so that is becomes perpendicular to the pipe (like the valve on the left, in [this](http://jgte.github.io/zh/images/gas.jpg) picture);
-2. Open the yellow valve leasing to the other tank.
+![this](http://jgte.github.io/zh/images/gas.jpg)
+
+These are 40 litres propane tanks and they should last for a long time. At the top of the picture, you see the gas pipe going into the kitchen. It comes down through two red regulators, that make sure the gas pressure at the stove and water heater is adequate. From the bottom regulator, the pipe splits right and left, into both gas tanks. There are two yellow valves immediately after the pipe splits. The valves control which tank is supplying gas.
+
+In case you run out of gas, chances are that the unused tank is full. All you need to do is switch the supply to that tank:
+
+1. Close the yellow valve leading to the tank in use, i.e. the valve that is currently open (the one on the right, in the picture above). You do this by rotating the valve so that is becomes perpendicular to the pipe (like the valve on the left, in the picture above);
+2. Open the yellow valve leading to the other tank.
 
 **Do not open both valves at the same time.** This will spill gas between the tanks, making it likely that both tanks need to be replaced at the same time and possibly preventing you from having hot water for a period of time.
 
@@ -226,14 +241,14 @@ Let me know if you need help travelling form locations other than Lisbon.
 
 14. Keep going straight until you find a roundabout, take the right exit, going North.
 
-15. After 20m, there's a crossing and one house further you'll see *Alojamento da Rua da Fonte* on the right. It's a bit confusing that the first house on the corner is nr. 3 (while *Alojamento da Rua da Fonte* is further down the street and it's nr. 1) that's how things work in Alentejo sometimes.
+15. After 20m, there's a crossing and one house further you'll see *Alojamento da Rua da Fonte* on the right. It's a bit confusing that the first house on the corner is nr. 3, while *Alojamento da Rua da Fonte* is further down the street and it's nr. 1. That's how things work in Alentejo sometimes.
 
 A map of this route can be found [here](https://goo.gl/maps/ZKu7BLoePPE2).
 
 
 ## Bus
 
-The best way to get to Zambujeira is by bus. They depart from [**Sete Rios** bus terminal](https://goo.gl/maps/BkjK65p9Zmv), which is easily accessible by Lisbon's subway (which also connects directly to the airport).
+The cheapest way to get to Zambujeira is by bus. They depart from [**Sete Rios** bus terminal](https://goo.gl/maps/BkjK65p9Zmv), which is easily accessible by Lisbon's subway (which also connects directly to the airport).
 
 The buses depart daily at:
 
@@ -247,6 +262,7 @@ Be sure the check the schedules at the website of [*Rede Expressos*](http://www.
 
 The bus stop in Zambujeira is [300 m away](https://goo.gl/maps/JDVFLLizMt32) from *Alojamento da Rua da Fonte*.
 
+If you know the date of your return to Lisbon, buy a return ticket, saving you some money. If you need to buy the return ticket in Zambujeira, go to [Pastelaria Doce Tentação](https://goo.gl/maps/c7x2aZApEPN2), they have a sales point there.
 
 # Parking
 
