@@ -56,6 +56,8 @@ permalink: /en/
   * [Supermarkt/general store](https://goo.gl/maps/wWripUokKFB2)
   * [Big supermarked at São Teotónio](https://goo.gl/maps/rDCuuCLg3py) (huge selection and cheaper but 7km away)
 
+Check out [this Google map](https://www.google.com/maps/d/edit?mid=zu31PBKn2kAo.k82kBWZCnjeA&usp=sharing) for more useful locations and interesting spots.
+
 # Safety
 
 The village of Zambujeira do Mar is a quiet and peaceful community; robberies are very uncommon. However, during the summer, with the inflow of tourists, it is always a good idea to leave the door locked when absent from the house. Be sure to properly close all windows (including those upstairs).
