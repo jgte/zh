@@ -58,6 +58,8 @@ permalink: /en/
 
 Check out [this Google map](https://www.google.com/maps/d/edit?mid=zu31PBKn2kAo.k82kBWZCnjeA&usp=sharing) for more useful locations and interesting spots.
 
+![this Google map](https://www.google.com/maps/d/u/0/embed?mid=zu31PBKn2kAo.k82kBWZCnjeA)
+
 # Safety
 
 The village of Zambujeira do Mar is a quiet and peaceful community; robberies are very uncommon. However, during the summer, with the inflow of tourists, it is always a good idea to leave the door locked when absent from the house. Be sure to properly close all windows (including those upstairs).
