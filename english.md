@@ -56,9 +56,9 @@ permalink: /en/
   * [Supermarkt/general store](https://goo.gl/maps/wWripUokKFB2)
   * [Big supermarked at São Teotónio](https://goo.gl/maps/rDCuuCLg3py) (huge selection and cheaper but 7km away)
 
-Check out [this Google map](https://www.google.com/maps/d/edit?mid=zu31PBKn2kAo.k82kBWZCnjeA&usp=sharing) for more useful locations and interesting spots.
+Check out the Google map below for more useful locations and interesting spots:
 
-![this Google map](https://www.google.com/maps/d/u/0/embed?mid=zu31PBKn2kAo.k82kBWZCnjeA)
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=zu31PBKn2kAo.k82kBWZCnjeA" width="800" height="500"></iframe>
 
 # Safety
 
