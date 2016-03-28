@@ -333,4 +333,4 @@ Outside the summer months, the weather tends to be chilly during the night, to t
 
 For more some statistics about the weather in Zambujeira, refer to [this](http://www.worldweatheronline.com/zambujeira-do-mar-weather-averages/beja/pt.aspx) website.
 
-<iframe id="forecast_embed" type="text/html" frameborder="0" height="245" width="100%" src="http://forecast.io/embed/#lat=37.525602&lon=-8.786641&units=ca&font=Georgia&name=Zambujeira do Mar"> </iframe>
+<iframe id="forecast_embed" type="text/html" frameborder="0" height="245" width="100%" src="http://forecast.io/embed/#lat=37.525602&lon=-8.786641&units=ca&name=Zambujeira do Mar"> </iframe>
