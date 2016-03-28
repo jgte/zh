@@ -19,6 +19,9 @@ permalink: /en/
   * [TV](#tv)
 * [Services](#services)
   * [WiFi internet](#wifi-internet)
+  * [Bed sheets and towels](#bed-sheets-and-towels)
+  * [Laundry](#laundry)
+  * [Cleaning](#cleaning)
   * [Hot water](#hot-water)
 * [Operations](#operations)
   * [Light switches on the ground floor](#light-switches-on-the-ground-floor)
@@ -27,6 +30,7 @@ permalink: /en/
   * [Gas](#gas)
 * [Getting there](#getting-there)
 * [Festival Sudoeste](#festival-sudoeste)
+* [Weather](#weather)
 
 # Emergency contacts
 
@@ -154,15 +158,30 @@ If there is no sound, turn off the TV and then turn it on again. If that doesn't
 
 There is WiFi internet throughout the house. The SSID is *Lajinha* and contact me to get the password. The traffic is limited to 7Gb/month, so it may run out. If that is the case, the internet access is still working but at a much lower speed. During the summer months, the influx of tourists causes the network to overload and the speed might not be as high as expected.
 
+## Bed sheets and towels
+
+Bed sheets and towels are available during your stay. If you need more, please find them in the storage room under the stairs. In case you cannot find them, please contact *Sra. Zina Sirooka* so that she can provide you with more.
+
+Additionally, each there are two blankets, one bed cover and (one or two) pillows for each bed. You can find them in the closet of all rooms.
+
+## Laundry
+
+Please contact *Sra. Zina Sirooka* if you want some clothes to be washed and/or ironed. Arrange directly with her the payment for this service. The washing of the bed sheets and towels is included in the renting cost.
+
+## Cleaning
+
+Please contact *Sra. Zina Sirooka* if you want to have the house cleaned during your stay. Arrange directly with her the payment for this service. The cleaning of the house before you arrive is included in the renting cost.
+
 ## Hot water
 
-Hot water is available in both toilet rooms and in the kitchen, provided by the water heater above the kitchen sink. The water heater is automatic, meaning it will turn on whenever a hot water tap is opened. Note that it can take a minute or so before hot water reaches the toilet room upstairs. Make sure the yellow valve is open before using hot water. Refer to the section on [gas](#gas) for more information about the gas supply.
+Hot water is available in both toilet rooms and in the kitchen, and is supplied by the water heater above the kitchen sink. The water heater is automatic, meaning it will turn on whenever a hot water tap is opened. Note that it can take a minute or so before hot water reaches the toilet room upstairs. Make sure the yellow valve is open before using hot water. Refer to the section on [gas](#gas) for more information about the gas supply.
 
-The water heater has a safety feature which prevents operation when the carbon dioxide concentration is too high. Although the exhaust of the water heater is diverted outside through a dedicated conduct, it may happen during stormy or windy conditions that the exhaust gases have difficulty flowing out, and the gas heater will stop working. If that is the case, open the kitchen window and external door (unlock it with the key hanging on the wall to the left of the door), close the internal door and wait for 10 minutes before trying again. Once the kitchen is ventilated (which fortunately happens quickly when windy), the gas heater will start working again.
+The water heater has a safety feature which prevents operation when the carbon dioxide concentration is too high. Although the exhaust gases of the water heater are diverted outside through a dedicated conduct, it may happen during stormy or windy conditions that theses gases have difficulty flowing out, increasing the concentraction of carbon dioxide and shutting down the gas heater. If that is the case, open the kitchen window and external door (unlock it with the key hanging on the wall to the left of the door), close the internal door and wait for 10 minutes before trying again. Once the kitchen is ventilated (which fortunately happens quickly when windy), the gas heater will start working again automatically once you open a hot water tap.
 
-There are some controls on the water heater but they only control how hot the water gets. There is an on/off button but it should never be off.
+There are some buttons and a dial on the water heater but they only control how hot the water gets. There is an on/off button but it should never be off.
 
 During the summer months, due to the large influx of tourists, the public water network is in high demand and, for this reason, the water pressure may drop considerably, specially between 19:00 and 21:00, when everyone is coming back from the beach. This may make it difficult to regulate the temperature of the water in the bathtubs, specially upstairs. The problem is that, starting from full hot water, as you turn the tap towards cold water (even if done slowly and progressively) there will be a point when the pressure of the hot water drops below the minimum level that the water heater can handle, and it will cause the gas burner to shut down. This means that the water is either too hot (because insufficient cold water is mixing with the hot water) or too cold (because no hot water is flowing because the gas burner is off). Unfortunately, there isn't a good way to fix this issue because it originates in the low water pressure in the public water network. Fortunately, this problem is most significant in the bathtub upstairs, while downstairs the problem is much more manageable, partly because the hot water reaches the shower head very quickly, so it's easier to control, partly because the water pressure is higher.
+
 
 # Operations
 
@@ -282,6 +301,19 @@ Park the car on the street, in front of the house. It is not possible to park th
 
 # Festival Sudoeste
 
-At the start of August, the [Festival Sudoeste](http://www.meosudoeste.pt) takes place [2 km away](https://goo.gl/maps/tiTbq2ufZS82) from Zambujeira do Mar. It's huge! There's a tsunami of festival-goers and it's difficult to stay oblivious to this event. Restaurants are always full, the beach is over-crowded and most people who traditionally take vacations in Zambujeira go somewhere else during this period.
+At the start of August, the [Festival Sudoeste](http://www.meosudoeste.pt) takes place [2 km away](https://goo.gl/maps/tiTbq2ufZS82) from Zambujeira do Mar. It's huge! There's a tsunami of festival-goers and it's difficult to stay oblivious to this event. Restaurants are always full, the beach is over-crowded and most people who traditionally take vacations in Zambujeira go somewhere else during this period. If you are looking for peace and quiet, this is not a good time to come to Zambujeira.
 
 Check out [some pictures in Google](https://www.google.pt/search?q=festival+sudoeste&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiNotn1qN7LAhUF7xQKHVnCAzEQ_AUIBygB) to get an idea of it.
+
+# Weather
+
+
+The weather during the summer is very pleasant. It never gets too hot because of the sea breeze. During the night, the temperature drops somewhat and it is rare that it remains hot enough to go outside without some kind of coat of pullover. You may wake up to find the village covered by fog. Usually, it clears out at around noon.
+
+Be sure to join scores of people watching the sun set, it is usually quite amazing.
+
+Outside the summer months, the weather tends to be chilly during the night, to the extent of being uncomfortable during winter. Note that there is no heating whatsoever in the *Alojamento da Rua da Fonte*.
+
+For more some statistics about the weather in Zambujeira, refer to [this](http://www.worldweatheronline.com/zambujeira-do-mar-weather-averages/beja/pt.aspx) website.
+
+<iframe id="forecast_embed" type="text/html" frameborder="0" height="245" width="100%" src="http://forecast.io/embed/#lat=37.525602&lon=-8.786641&units=ca&name=Zambujeira do Mar"> </iframe>
