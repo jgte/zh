@@ -8,6 +8,7 @@ permalink: /en/
 # Table of Contents
 * [Emergency contacts](#emergency-contacts)
 * [Useful locations](#useful-locations)
+* [Arrival](#arrival)
 * [Safety](#safety)
 * [Appliances](#appliances)
   * [Dishwasher](#dishwasher)
@@ -63,6 +64,22 @@ permalink: /en/
 Check out the Google map below for more useful locations and interesting spots:
 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=zu31PBKn2kAo.k82kBWZCnjeA" width="800" height="500"></iframe>
+
+# Arrival
+
+When you arrive in Zambujeira, please contact *Sra. Zina Sirooka* so that she shows you the house and hands you the keys. Please arrange in advance with her the time of your arrival, to be sure she is available and to avoid any unnecessary waiting time.
+
+The address of the house is:
+
+    Rua da Fonte 1
+    7630-776 Zambujeira do Mar
+    Portugal
+
+The GPS coordinates are (from Google maps):
+
+    Latitude 37.5256252, Longitude -8.7868201
+
+Refer to the [Getting there](#getting-there) section to find more details about finding your way to *Alojamento da Rua da Fonte*.
 
 # Safety
 
@@ -316,4 +333,4 @@ Outside the summer months, the weather tends to be chilly during the night, to t
 
 For more some statistics about the weather in Zambujeira, refer to [this](http://www.worldweatheronline.com/zambujeira-do-mar-weather-averages/beja/pt.aspx) website.
 
-<iframe id="forecast_embed" type="text/html" frameborder="0" height="245" width="100%" src="http://forecast.io/embed/#lat=37.525602&lon=-8.786641&units=ca&name=Zambujeira do Mar"> </iframe>
+<iframe id="forecast_embed" type="text/html" frameborder="0" height="245" width="100%" src="http://forecast.io/embed/#lat=37.525602&lon=-8.786641&units=ca&font=Georgia&name=Zambujeira do Mar"> </iframe>
