@@ -36,7 +36,7 @@ permalink: /en/
 
 # House contacts
 
-* Owner: João Encarnação, **+351 962 801 954** in Portugal, **+31 6 181 337 878** in the Netherlands (both numbers are permanently active)
+* Owner: João Encarnação, **+351 962 801 954** in Portugal, **+31 61 81 33 787** in the Netherlands (both numbers are permanently active)
 * Host and local contact: Zina Sirooka: **+351 966 230 583**
 
 Please feel free to contact *Sra. Zina Sirooka* if you need anything that needs to be dealt during your stay, for example in anything needs to be arranged (cleaning, laundry), fixed (e.g. a broken window), clarified (e.g. an appliance doesn't work as expected), etc.
