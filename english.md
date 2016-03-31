@@ -336,7 +336,7 @@ Check out [some pictures in Google](https://www.google.pt/search?q=festival+sudo
 
 The weather during the summer is very pleasant. It never gets too hot because of the sea breeze. During the night, the temperature drops somewhat and it is rare that it remains hot enough to go outside without some kind of coat of pullover. You may wake up to find the village covered by fog. Usually, it clears out at around noon.
 
-Be sure to join scores of people watching the sun set, it is usually quite amazing.
+Be sure to join scores of people watching the sun set, form the church square or Ilias cape (see the map in the [Useful locations](#useful-locations) section). It is usually quite amazing.
 
 Outside the summer months, the weather tends to be chilly during the night, to the extent of being uncomfortable during winter. Note that there is no heating whatsoever in the *Alojamento da Rua da Fonte*.
 
