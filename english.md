@@ -39,7 +39,7 @@ permalink: /en/
 * Owner: João Encarnação, **+351 962 801 954** in Portugal, **+31 61 81 33 787** in the Netherlands (both numbers are permanently active)
 * Host and local contact: Zina Sirooka: **+351 966 230 583**
 
-Please feel free to contact *Sra. Zina Sirooka* if you need anything that needs to be dealt during your stay, for example in anything needs to be arranged (cleaning, laundry), fixed (e.g. a broken window), clarified (e.g. an appliance doesn't work as expected), etc.
+Please feel free to contact [*Sra. Zina Sirooka*](#house-contacts) if you need anything that needs to be dealt during your stay, for example in anything needs to be arranged (cleaning, laundry), fixed (e.g. a broken window), clarified (e.g. an appliance doesn't work as expected), etc.
 
 Please feel free to contact *João Encarnação* for feedback, complaints, future reservations or anything else you feel is important to discuss.
 
@@ -76,7 +76,7 @@ Check out the Google map below for more useful locations and interesting spots:
 
 # Arrival
 
-When you arrive in Zambujeira, please contact *Sra. Zina Sirooka* so that she shows you the house and hands you the keys. Please arrange in advance with her the time of your arrival, to be sure she is available and to avoid any unnecessary waiting time.
+When you arrive in Zambujeira, please contact [*Sra. Zina Sirooka*](#house-contacts) so that she shows you the house and hands you the keys. Please arrange in advance with her the time of your arrival, to be sure she is available and to avoid any unnecessary waiting time.
 
 The address of the house is:
 
@@ -94,9 +94,9 @@ Refer to the [Getting there](#getting-there) section to find more details about 
 
 The village of Zambujeira do Mar is a quiet and peaceful community; robberies are very uncommon. However, during the summer, with the inflow of tourists, it is always a good idea to leave the door locked when absent from the house. Be sure to properly close all windows (including those upstairs).
 
-Do not grant access to the house to anyone, including someone claiming to be me or to be acting on my behalf. The obvious exceptions are your host *Sra. Zina Sirooka*, who you met when you arrived (or anyone accompanying her), and the police (most likely from the [GNR](http://www.gnr.pt) *Guarda Nacional Republicana* -- National Republican Guard -- who wears [characteristic uniforms](https://www.google.pt/search?q=farda+da+guarda+nacional+republicana&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjum6Kdx97LAhWHchQKHY8ZDtYQ_AUIBygB&biw=1358&bih=650)). Less obvious is to allow access to workers from the electricity company [EDP](http://www.edp.pt), who must be wearing a uniform and able to present identification, so that they can read the electricity counter on the wall to the right, immediately after the front door. There is no need to let them any further than the hall next to the front door.
+Do not grant access to the house to anyone, including someone claiming to be me or to be acting on my behalf. The obvious exceptions are your host [*Sra. Zina Sirooka*](#house-contacts), who you met when you arrived (or anyone accompanying her), and the police (most likely from the [GNR](http://www.gnr.pt) *Guarda Nacional Republicana* -- National Republican Guard -- who wears [characteristic uniforms](https://www.google.pt/search?q=farda+da+guarda+nacional+republicana&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjum6Kdx97LAhWHchQKHY8ZDtYQ_AUIBygB&biw=1358&bih=650)). Less obvious is to allow access to workers from the electricity company [EDP](http://www.edp.pt), who must be wearing a uniform and able to present identification, so that they can read the electricity counter on the wall to the right, immediately after the front door. There is no need to let them any further than the hall next to the front door.
 
-Be aware that the bathtubs (on both toilet rooms) are extremely slippery when wet. Do not climb inside without first setting the rubber mat. If the rubber mat is missing, contact *Sra. Zina Sirooka* to get a replacement. Please use the bathtub on the other toilet room until the new rubber mat is available.
+Be aware that the bathtubs (on both toilet rooms) are extremely slippery when wet. Do not climb inside without first setting the rubber mat. If the rubber mat is missing, contact [*Sra. Zina Sirooka*](#house-contacts) to get a replacement. Please use the bathtub on the other toilet room until the new rubber mat is available.
 
 On the toilet room of the ground floor, there is first aid supplies to the right, immediately after the front door.
 
@@ -186,17 +186,17 @@ There is WiFi internet throughout the house. The SSID is *Lajinha* and contact m
 
 ## Bed sheets and towels
 
-Bed sheets and towels are available during your stay. If you need more, please find them in the storage room under the stairs. In case you cannot find them, please contact *Sra. Zina Sirooka* so that she can provide you with more.
+Bed sheets and towels are available during your stay. If you need more, please find them in the storage room under the stairs. In case you cannot find them, please contact [*Sra. Zina Sirooka*](#house-contacts) so that she can provide you with more.
 
 Additionally, each there are two blankets, one bed cover and (one or two) pillows for each bed. You can find them in the closet of all rooms.
 
 ## Laundry
 
-Please contact *Sra. Zina Sirooka* if you want some clothes to be washed and/or ironed. Arrange directly with her the payment for this service. The washing of the bed sheets and towels is included in the renting cost.
+Please contact [*Sra. Zina Sirooka*](#house-contacts) if you want some clothes to be washed and/or ironed. Arrange directly with her the payment for this service. The washing of the bed sheets and towels is included in the renting cost.
 
 ## Cleaning
 
-Please contact *Sra. Zina Sirooka* if you want to have the house cleaned during your stay. Arrange directly with her the payment for this service. The cleaning of the house before you arrive is included in the renting cost.
+Please contact [*Sra. Zina Sirooka*](#house-contacts) if you want to have the house cleaned during your stay. Arrange directly with her the payment for this service. The cleaning of the house before you arrive is included in the renting cost.
 
 ## Hot water
 
@@ -219,7 +219,7 @@ The light switches on the ground floor 50 years old. This means they sometimes m
 
 On the external southern wall of the house, close to the South-western corner, there is a small white plastic panel covering the valve that turns off the water in the whole house. If you exit through the front door, turn immediately to the left, go around the corner and you should see this white plastic panel a roughly waste height.
 
-Please contact *Sra. Zina Sirooka* if you need assistance.
+Please contact [*Sra. Zina Sirooka*](#house-contacts) if you need assistance.
 
 ## Main electricity switches
 
@@ -239,7 +239,7 @@ The useful part of the panel is the first one. The three push buttons, from left
 
 The big switch below the three push button cuts the power to the whole house.
 
-Please contact *Sra. Zina Sirooka* if you need assistance.
+Please contact [*Sra. Zina Sirooka*](#house-contacts) if you need assistance.
 
 
 ## Gas
@@ -259,7 +259,7 @@ In case you run out of gas, chances are that the unused tank is full. All you ne
 
 **Do not open both valves at the same time.** This will spill gas between the tanks, making it likely that both tanks need to be replaced at the same time and possibly preventing you from having hot water for a period of time.
 
-Please inform *Sra. Zina Sirooka* when a gas tank is empty so that she can order a new one to replace the depleted one.
+Please inform [*Sra. Zina Sirooka*](#house-contacts) when a gas tank is empty so that she can order a new one to replace the depleted one.
 
 
 # Getting there
