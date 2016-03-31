@@ -6,6 +6,7 @@ permalink: /en/
 ---
 
 # Table of Contents
+* [House contacts](#house-contacts)
 * [Emergency contacts](#emergency-contacts)
 * [Useful locations](#useful-locations)
 * [Arrival](#arrival)
@@ -33,10 +34,18 @@ permalink: /en/
 * [Festival Sudoeste](#festival-sudoeste)
 * [Weather](#weather)
 
+# House contacts
+
+* Owner: João Encarnação, **+351 962 801 954** in Portugal, **+31 6 181 337 878** in the Netherlands (both numbers are permanently active)
+* Host and local contact: Zina Sirooka: **+351 966 230 583**
+
+Please feel free to contact *Sra. Zina Sirooka* if you need anything that needs to be dealt during your stay, for example in anything needs to be arranged (cleaning, laundry), fixed (e.g. a broken window), clarified (e.g. an appliance doesn't work as expected), etc.
+
+Please feel free to contact *João Encarnação* for feedback, complaints, future reservations or anything else you feel is important to discuss.
+
+
 # Emergency contacts
 
-* João Encarnação: 962 801 954 (owner)
-* Zina Sirooka: 966 230 583 (host and local contact, please feel free to contact her if you need anything)
 
 * National Emergency number: 112
 * Police: 283 959 017 ([Posto da GNR](http://www.gnr.pt/portal/internet/contactos/detalhe.asp?codUnidade=20020755), [São Teotónio](https://goo.gl/maps/GgaR1FQeDt22))
