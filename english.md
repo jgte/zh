@@ -98,6 +98,8 @@ Do not grant access to the house to anyone, including someone claiming to be me 
 
 Be aware that the bathtubs (on both toilet rooms) are extremely slippery when wet. Do not climb inside without first setting the rubber mat. If the rubber mat is missing, contact [*Sra. Zina Sirooka*](#house-contacts) to get a replacement. Please use the bathtub on the other toilet room until the new rubber mat is available.
 
+On the terrace, there is an unused water tank made of [fibrous cement](https://en.wikipedia.org/wiki/Asbestos_cement), which contains a small percentage of asbestos. There is no danger to health because the asbestos fibres are sequestered inside the material. Nevertheless, damage to this water tank may cause these fibres to get loose. Therefore, do not interact any way with this water tank. Please keep an eye on small children while in the terrace.
+
 On the toilet room of the ground floor, there is first aid supplies to the right, immediately after the front door.
 
 # External areas
