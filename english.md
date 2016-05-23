@@ -10,10 +10,11 @@ permalink: /en/
 * [Emergency contacts](#emergency-contacts)
 * [Useful locations](#useful-locations)
 * [Arrival](#arrival)
+* [Address](#address)
 * [Safety](#safety)
 * [Appliances](#appliances)
-  * [Dishwasher](#dishwasher)
   * [Stove and oven](#stove-and-oven)
+  * [Dishwasher](#dishwasher)
   * [Microwaves and toaster](#microwaves-and-toaster)
   * [Fridge and freezer](#fridge-and-freezer)
   * [Washing machine](#washing-machine)
@@ -76,9 +77,13 @@ Check out the Google map below for more useful locations and interesting spots:
 
 # Arrival
 
-When you arrive in Zambujeira, please contact [*Sra. Zina Sirooka*](#house-contacts) so that she shows you the house and hands you the keys. Please arrange in advance with her the time of your arrival, to be sure she is available and to avoid any unnecessary waiting time.
+Before arriving in Zambujeira, please contact [*Sra. Zina Sirooka*](#house-contacts) and arrange with her a suitable time to meet. She will meet you at [*Alojamento da Rua da Fonte*](#address), show you the house and hand you the keys.
 
-The address of the house is:
+**Please arrange in advance with her the time of your arrival**, to be sure she is available and to avoid any unnecessary waiting time.
+
+# Address
+
+The address of *Alojamento da Rua da Fonte* is:
 
     Rua da Fonte 1
     7630-776 Zambujeira do Mar
@@ -89,6 +94,7 @@ The GPS coordinates are (from Google maps):
     Latitude 37.5256252, Longitude -8.7868201
 
 Refer to the [Getting there](#getting-there) section to find more details about finding your way to *Alojamento da Rua da Fonte*.
+
 
 # Safety
 
@@ -111,6 +117,19 @@ You have access to the terrace, the balcony upstairs and the yard in front of th
 ## Stove and oven
 
 The stove and oven in the kitchen are powered by gas. See the section on [gas](#gas) for further details, in case it is not possible to use it. There is no in-built igniter, so you'll need to use the matches or lighters resting on the small shelve on the top left of the stove.
+
+The oven is at times a bit stubborn to ignite. Follow these steps if you have difficulties:
+
+1. Be sure gas is reaching the stove, by checking if you can light one of the gas dishes at the top of the stove. If this is not the case, see the section on operating the [gas](#gas) supply.
+2. Open the door of the oven all the way down.
+3. Strike a match (you may also use the lighter fluid igniter, the one with the long neck). **You MUST strike the match or light the igniter before you turn on the gas.** **DO NOT open the supply of gas before having an open flame ready.**
+3. Press the middle knob and rotate it a quarter of the way. You should hear the gas coming out. **Keep pressing the knob.** If you let go of the knob, you will not be able to light the oven. To be clear, there are two motions required: pressing and rotating the knob. You need to keep the knob pressed until step 8.
+4. Insert the match into the hole at the bottom of the oven and wait until the gas ignites. There may be air in the gas tubes and it may take a few seconds before the gas reaches the oven.
+5. If you start smelling gas but there is no ignition, it means you did not insert the match enough down into the hole. Release the pressure on the knob, turn it back to the off position and go back to step 2. You may try removing the small metal cover around the ignition hole so you have a better viewpoint of the ignition spot.
+6. After the gas ignites, keep the knob pressed for a few seconds. This will ensure the flame doesn't extinguish once you remove pressure from the knob.
+7. If the flame goes out when you release the pressure of the knob, go back to step 2.
+8. With the flame burning and without pressing the knob, you may rotate it further to diminish the flame intensity. The oven is ready.
+
 
 ## Dishwasher
 
@@ -174,23 +193,25 @@ The TV only shows the *open signal* TV stations. They are all Portuguese althoug
 To turn on the TV, follow these steps:
 
 1. Make sure the TV and the decoder (the black box next to the TV) are powered.
-2. Pick the remote and press the big red button (standby/on), while pointing the remote to the decoder. The red and green lights start flickering
-3. Turn on the TV by touching the on/off light (I have marked this area because it's difficult to see during the day). There should be an image saying that the signal is getting acquired. After 30 seconds or so, the lights in the decoder stop flickering and only the green light will be on. At the time, the TV picture should be seen on the TV.
-4. Use the remote to change channels.
-
-If there is no sound, turn off the TV and then turn it on again. If that doesn't work, do the same to the decoder, by pressing the big red button (standby/on) on the decoder.
+2. Pick the decoder remote and press the big red button (standby/on), while pointing the remote to the decoder. The red and green lights start flickering. Sometimes this only happens after a minute or so (but you may proceed to the following step).
+3. Turn on the TV by touching the on/off light (I have marked this area because it's difficult to see during the day). There should be an image saying that the signal is getting acquired. If you do not see this image, wait for a minute or so. It may take somewhere up to a a couple of minutes for the decoder to send this image to the TV.
+4. If this image is still not present but there's a message saying "no signal" (or something to that effect), the input to the TV may be wrongly selected. Check at the back of the TV which HDMI port is connected to the decoder (other guest may have changed this) and use the input selection button (at the the bottom right of the TV).
+5. After 30 seconds (up to a couple of minutes), the lights in the decoder stop flickering and only the green light will be on. At that time, the TV picture should be seen on the TV. Use the decoder remote to change channels.
+6. If there is no sound, turn off the TV and then turn it on again (by touching the on/off light on the TV). If that doesn't work, do the same to the decoder, by pressing the big red button (standby/on) on the decoder remote.
 
 # Services
 
 ## WiFi internet
 
-There is WiFi internet throughout the house. The SSID is *Lajinha* and contact me to get the password. The traffic is limited to 7Gb/month, so it may run out. If that is the case, the internet access is still working but at a much lower speed. During the summer months, the influx of tourists causes the network to overload and the speed might not be as high as expected.
+There is WiFi internet throughout the house. The SSID is *Lajinha* and contact me to get the password. The traffic is unlimited. Nevertheless, there is the remote possibility that I forgot to upgrade the internet plan (since there is no point in keeping the unlimited internet plan when the house is vacant), so please contact me if the internet speed is extremely low.
+
+During the summer months, the influx of tourists causes the network to overload and the speed might not be as high as expected.
 
 ## Bed sheets and towels
 
 Bed sheets and towels are available during your stay. If you need more, please find them in the storage room under the stairs. In case you cannot find them, please contact [*Sra. Zina Sirooka*](#house-contacts) so that she can provide you with more.
 
-Additionally, each there are two blankets, one bed cover and (one or two) pillows for each bed. You can find them in the closet of all rooms.
+Additionally, there are two blankets, one bed cover and (one or two) pillows for each bed. You can find them in the closets, in every room.
 
 ## Laundry
 
@@ -208,7 +229,7 @@ The water heater has a safety feature which prevents operation when the carbon d
 
 There are some buttons and a dial on the water heater but they only control how hot the water gets. There is an on/off button but it should never be off.
 
-During the summer months, due to the large influx of tourists, the public water network is in high demand and, for this reason, the water pressure may drop considerably, specially between 19:00 and 21:00, when everyone is coming back from the beach. This may make it difficult to regulate the temperature of the water in the bathtubs, specially upstairs. The problem is that, starting from full hot water, as you turn the tap towards cold water (even if done slowly and progressively) there will be a point when the pressure of the hot water drops below the minimum level that the water heater can handle, and it will cause the gas burner to shut down. This means that the water is either too hot (because insufficient cold water is mixing with the hot water) or too cold (because no hot water is flowing because the gas burner is off). Unfortunately, there isn't a good way to fix this issue because it originates in the low water pressure in the public water network. Fortunately, this problem is most significant in the bathtub upstairs, while downstairs the problem is much more manageable, partly because the hot water reaches the shower head very quickly, so it's easier to control, partly because the water pressure is higher.
+During the summer months, due to the large influx of tourists, the public water network is in high demand and, for this reason, the water pressure may drop considerably, specially between 19:00 and 21:00, when everyone is coming back from the beach. This may make it difficult to regulate the temperature of the water in the bathtubs, specially upstairs. The problem is that, starting from full hot water, as you turn the tap towards cold water (even if done slowly and progressively) there will be a point when the pressure of the hot water drops below the minimum level that the water heater can handle, and it will cause the gas burner to shut down. This means that the water is either too hot (because insufficient cold water is mixing with the hot water) or too cold (because no hot water is flowing due to the gas burner being off). Unfortunately, there isn't a good way to fix this issue because it originates in the low water pressure in the public water network. Fortunately, this problem is most significant in the bathtub upstairs, while downstairs the problem is much more manageable, partly because the hot water reaches the shower head very quickly, so it's easier to control, partly because the water pressure is higher.
 
 
 # Operations
@@ -300,7 +321,7 @@ Let me know if you need help travelling form locations other than Lisbon.
 
 14. Keep going straight until you find a roundabout, take the right exit, going North.
 
-15. After 20m, there's a crossing and one house further you'll see *Alojamento da Rua da Fonte* on the right. It's a bit confusing that the first house on the corner is nr. 3, while *Alojamento da Rua da Fonte* is further down the street and it's nr. 1. That's how things work in Alentejo sometimes.
+15. After 20m, there's a crossing and one house further you'll see [*Alojamento da Rua da Fonte*](#address) on the right. It's a bit confusing that the first house on the corner is nr. 3, while [*Alojamento da Rua da Fonte*](#address) is further down the street and it's nr. 1. That's how things work in Alentejo sometimes.
 
 A map of this route can be found [here](https://goo.gl/maps/ZKu7BLoePPE2).
 
@@ -319,7 +340,7 @@ The buses depart daily at:
 
 Be sure the check the schedules at the website of [*Rede Expressos*](http://www.rede-expressos.pt/) (the company operating the bus lines).
 
-The bus stop in Zambujeira is [300 m away](https://goo.gl/maps/JDVFLLizMt32) from *Alojamento da Rua da Fonte*.
+The bus stop in Zambujeira is [300 m away](https://goo.gl/maps/JDVFLLizMt32) from [*Alojamento da Rua da Fonte*](#address), at a perfectly reasonable walking distance, even with (wheeled) luggage.
 
 If you know the date of your return to Lisbon, buy a return ticket, saving you some money. If you need to buy the return ticket in Zambujeira, go to [Pastelaria Doce Tentação](https://goo.gl/maps/c7x2aZApEPN2), they have a sales point there.
 
@@ -329,7 +350,9 @@ Park the car on the street, in front of the house. It is not possible to park th
 
 # Festival Sudoeste
 
-At the start of August, the [Festival Sudoeste](http://www.meosudoeste.pt) takes place [2 km away](https://goo.gl/maps/tiTbq2ufZS82) from Zambujeira do Mar. It's huge! There's a tsunami of festival-goers and it's difficult to stay oblivious to this event. Restaurants are always full, the beach is over-crowded and most people who traditionally take vacations in Zambujeira go somewhere else during this period. If you are looking for peace and quiet, this is not a good time to come to Zambujeira.
+At the start of August, the [Festival Sudoeste](http://www.meosudoeste.pt) takes place [2 km away](https://goo.gl/maps/tiTbq2ufZS82) from Zambujeira do Mar. It's huge! There's a tsunami of festival-goers and it's difficult to stay oblivious to this event. Restaurants are always full, the beach is over-crowded and most people who traditionally take vacations in Zambujeira go somewhere else during this period.
+
+I repeat: **this event it not something you can ignore** if you are in Zambujeira, or anywhere near it. If you are looking for peace and quiet, this is not a good time to come to Zambujeira. Although it is taking place a few kilometres away, it brings in many people (hundreds of thousands of them) and traffic.
 
 Check out [some pictures in Google](https://www.google.pt/search?q=festival+sudoeste&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiNotn1qN7LAhUF7xQKHVnCAzEQ_AUIBygB) to get an idea of it.
 
@@ -340,7 +363,7 @@ The weather during the summer is very pleasant. It never gets too hot because of
 
 Be sure to join scores of people watching the sun set, in the church square or Ilias cape (see the map in the [Useful locations](#useful-locations) section). It is usually quite amazing.
 
-Outside the summer months, the weather tends to be chilly during the night, to the extent of being uncomfortable during winter. Note that there is no heating whatsoever in the *Alojamento da Rua da Fonte*.
+Outside the summer months, the weather tends to be chilly during the night, to the extent of being uncomfortable during winter. Note that there is no heating whatsoever in the [*Alojamento da Rua da Fonte*](#address). You may find out that the temperature is around 10 degrees from December to February and think it's not too bad. Be aware that the humidity is very high, and it actually feels like 5 degrees less (at least). The available blankets might not be enough to sleep comfortably, so please bring your own (or use spare ones from the other rooms, in case those beds are vacant).
 
 For more some statistics about the weather in Zambujeira, refer to [this](http://www.worldweatheronline.com/zambujeira-do-mar-weather-averages/beja/pt.aspx) website.
 
