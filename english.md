@@ -12,6 +12,7 @@ permalink: /en/
 * [Arrival](#arrival)
 * [Address](#address)
 * [Safety](#safety)
+* [Water quality](#water-quality)
 * [Appliances](#appliances)
   * [Stove and oven](#stove-and-oven)
   * [Dishwasher](#dishwasher)
@@ -108,6 +109,12 @@ On the terrace, there is an unused water tank made of [fibrous cement](https://e
 
 On the toilet room of the ground floor, there is first aid supplies to the right, immediately after the front door.
 
+# Water quality
+
+Officially, the tap water is  fit to drink and I do it sometimes. However, I do not advise it during the peak summer months. Zambujeira being crowded combined with the dwindling water supply means the water quality decreases. This is specially the case during drought years. It would taste strongly of bleach, for example.
+
+At the beach, there is a creek flowing to the ocean. These waters are treated and do not present any health risk (cf. [Quercus atribui “Qualidade de Ouro” a cinco praias do Litoral Odemirense](http://cm-odemira.pt/PageGen.aspx?WMCM_PaginaId=27775&noticiaId=76849&pastaNoticiasReqId=54605), in Portuguese). However, the water is not drinkable and I highly advise that you keep young kids away from it.
+
 # External areas
 
 You have access to the terrace, the balcony upstairs and the yard in front of the house (between the street and the western wall of the house). The driveway on the south and the yard on the east are only for emergency. The external kitchen door leads to the eastern yard, you can find the key of the lock hanging on the wall to the left of this door. You may also access the gas storage, if needed, see the section on operating the [gas](#gas) supply.
@@ -140,6 +147,9 @@ The oven is at times a bit stubborn to ignite. Follow these steps if you have di
 5. Rotate the button on the top right until you align the mark on he button with the mark on the body. There is only this mark, since the remaining markings are worn out.
 7. Turn on the power using the red switch on the multiple power sockets, which is resting on top of the dishwasher, on the far right corner. The red switch will be lit, indicating that electricity is flowing and the microwave will beep (since it too is connected to this multiple power socket). Be sure to disconnect the toaster (by yanking the respective power cord).
 6. Pull the button on the dishwasher out. It should start making noises.
+7. After the washing is finished, turn off the power before opening the door.
+
+Notice that you should turn on the power only **after** closing the door of the dishwasher and turn it off **before** opening the door.
 
 ## Microwaves and toaster
 
