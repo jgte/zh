@@ -36,6 +36,10 @@ permalink: /en/
 * [Festival Sudoeste](#festival-sudoeste)
 * [Weather](#weather)
 
+The on-line version of this document can be found at:
+
+[http://jgte.github.io/zh/en/](http://jgte.github.io/zh/en/)
+
 # House contacts
 
 * Owner: João Encarnação, **+351 962 801 954** in Portugal, **+31 61 81 33 787** in the Netherlands (both numbers are permanently active)
