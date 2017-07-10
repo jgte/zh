@@ -42,7 +42,7 @@ The on-line version of this document can be found at:
 
 # House contacts
 
-* Owner: João Encarnação, **+351 962 801 954** in Portugal, **+31 61 81 33 787** in the Netherlands (both numbers are permanently active)
+* Owner: João Encarnação, **+1 512 765 1351** (US) or **+351 962801954** (Portugal, SMS only)
 * Host and local contact: Zina Sirooka: **+351 966 230 583**
 
 Please feel free to contact [*Sra. Zina Sirooka*](#house-contacts) if you need anything that needs to be dealt during your stay, for example in anything needs to be arranged (cleaning, laundry), fixed (e.g. a broken window), clarified (e.g. an appliance doesn't work as expected), etc.
@@ -99,6 +99,14 @@ The GPS coordinates are (from Google maps):
     Latitude 37.5256252, Longitude -8.7868201
 
 Refer to the [Getting there](#getting-there) section to find more details about finding your way to *Alojamento da Rua da Fonte*.
+
+# Issues
+
+Previous guests have informed me of the following issues:
+
+* *The hot water is difficult to control on the first floor*. As I describe in [the section below about hot water](#hot-water), the issue has mainly to do with the water pressure provided by the public distribution system. You can avoid this issue if you use the showers outside the rush-hours of water use or by using the shower downstairs.
+* *The oven is difficult to light*. Please read [the section below about the stove and oven](#stove-and-oven) describing how to do this safely and quickly.
+* *The TV does not come on*. Please read [the section below about the TV](#tv) describing how this is done. The problem has to do with the relatively long time that the decoder (the black box next to the TV) takes to acquire the signal.
 
 
 # Safety
@@ -213,6 +221,8 @@ To turn on the TV, follow these steps:
 5. After 30 seconds (up to a couple of minutes), the lights in the decoder stop flickering and only the green light will be on. At that time, the TV picture should be seen on the TV. Use the decoder remote to change channels.
 6. If there is no sound, turn off the TV and then turn it on again (by touching the on/off light on the TV). If that doesn't work, do the same to the decoder, by pressing the big red button (standby/on) on the decoder remote.
 
+The TV is relatively modern (it's a flat screen TV) and has several digital inputs (2 HDMI ports). Please feel free to plug in your devices.
+
 # Services
 
 ## WiFi internet
@@ -239,12 +249,13 @@ Please contact [*Sra. Zina Sirooka*](#house-contacts) if you want to have the ho
 
 Hot water is available in both toilet rooms and in the kitchen, and is supplied by the water heater above the kitchen sink. The water heater is automatic, meaning it will turn on whenever a hot water tap is opened. Note that it can take a minute or so before hot water reaches the toilet room upstairs. Make sure the yellow valve is open before using hot water. Refer to the section on [gas](#gas) for more information about the gas supply.
 
-The water heater has a safety feature which prevents operation when the carbon dioxide concentration is too high. Although the exhaust gases of the water heater are diverted outside through a dedicated conduct, it may happen during stormy or windy conditions that theses gases have difficulty flowing out, increasing the concentraction of carbon dioxide and shutting down the gas heater. If that is the case, open the kitchen window and external door (unlock it with the key hanging on the wall to the left of the door), close the internal door and wait for 10 minutes before trying again. Once the kitchen is ventilated (which fortunately happens quickly when windy), the gas heater will start working again automatically once you open a hot water tap.
+The water heater has a safety feature which prevents operation when the carbon dioxide concentration is too high. Although the exhaust gases of the water heater are diverted outside through a dedicated conduct, it may happen during stormy or windy conditions that theses gases have difficulty flowing out, increasing the concentration of carbon dioxide and shutting down the gas heater. If that is the case, open the kitchen window and external door (unlock it with the key hanging on the wall to the left of the door), close the internal door and wait for 10 minutes before trying again. Once the kitchen is ventilated (which fortunately happens quickly when windy), the gas heater will start working again automatically once you open a hot water tap.
 
 There are some buttons and a dial on the water heater but they only control how hot the water gets. There is an on/off button but it should never be off.
 
 During the summer months, due to the large influx of tourists, the public water network is in high demand and, for this reason, the water pressure may drop considerably, specially between 19:00 and 21:00, when everyone is coming back from the beach. This may make it difficult to regulate the temperature of the water in the bathtubs, specially upstairs. The problem is that, starting from full hot water, as you turn the tap towards cold water (even if done slowly and progressively) there will be a point when the pressure of the hot water drops below the minimum level that the water heater can handle, and it will cause the gas burner to shut down. This means that the water is either too hot (because insufficient cold water is mixing with the hot water) or too cold (because no hot water is flowing due to the gas burner being off). Unfortunately, there isn't a good way to fix this issue because it originates in the low water pressure in the public water network. Fortunately, this problem is most significant in the bathtub upstairs, while downstairs the problem is much more manageable, partly because the hot water reaches the shower head very quickly, so it's easier to control, partly because the water pressure is higher.
 
+Note also that the water pressure is (usually) not enough to supply both showers with hot water at the same time.
 
 # Operations
 
