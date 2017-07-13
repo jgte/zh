@@ -108,7 +108,6 @@ Previous guests have informed me of the following issues:
 * *The oven is difficult to light*. Please read [the section below about the stove and oven](#stove-and-oven) describing how to do this safely and quickly.
 * *The TV does not come on*. Please read [the section below about the TV](#tv) describing how this is done. The problem has to do with the relatively long time that the decoder (the black box next to the TV) takes to acquire the signal.
 
-
 # Safety
 
 The village of Zambujeira do Mar is a quiet and peaceful community; robberies are very uncommon. However, during the summer, with the inflow of tourists, it is always a good idea to leave the door locked when absent from the house. Be sure to properly close all windows (including those upstairs).
@@ -120,6 +119,7 @@ Be aware that the bathtubs (on both toilet rooms) are extremely slippery when we
 On the terrace, there is an unused water tank made of [fibrous cement](https://en.wikipedia.org/wiki/Asbestos_cement), which contains a small percentage of asbestos. There is no danger to health because the asbestos fibres are sequestered inside the material. Nevertheless, damage to this water tank may cause these fibres to get loose. Therefore, do not interact any way with this water tank. Please keep an eye on small children while in the terrace.
 
 On the toilet room of the ground floor, there is first aid supplies to the right, immediately after the front door.
+
 
 # Water quality
 
@@ -233,9 +233,11 @@ During the summer months, the influx of tourists causes the network to overload 
 
 ## Bed sheets and towels
 
-Bed sheets and towels are available during your stay. If you need more, please find them in the storage room under the stairs. In case you cannot find them, please contact [*Sra. Zina Sirooka*](#house-contacts) so that she can provide you with more.
+Bed sheets and towels are available during your stay. If you need more, please contact [*Sra. Zina Sirooka*](#house-contacts) so that she can provide you with more.
 
 Additionally, there are two blankets, one bed cover and (one or two) pillows for each bed. You can find them in the closets, in every room.
+
+Beach gear (beach towels, parasol, beach chairs) is not available at the house, so it is a good idea to bring them.
 
 ## Laundry
 
