@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Conditions
+title: 2. Conditions
 subtitle: Alojamento da Rua da Fonte
 permalink: /en/desc
 ---

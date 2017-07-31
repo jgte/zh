@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Information about Zambujeira do Mar
+title: 3. Information about Zambujeira do Mar
 subtitle: What to do
 permalink: /en/whattodo
 ---

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Introduction
+title: 1. Introduction
 subtitle: Alojamento da Rua da Fonte
 permalink: /en/intro
 ---
