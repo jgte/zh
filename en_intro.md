@@ -9,7 +9,7 @@ The on-line version of this document can be found at:
 
 [http://jgte.github.io/zh/en/intro](http://jgte.github.io/zh/en/intro)
 
-**Please read this page and description of the [Conditions of *Alojamento da Rua da Fonte*](http://jgte.github.io/zh/en/desc)**. It may also be interesting to you to learn some [Information about Zambujeira do Mar](http://jgte.github.io/zh/en/whattodo).
+**Please read this page and description of the [Conditions of *Alojamento da Rua da Fonte*](http://jgte.github.io/zh/en/desc)**. It may also be interesting to you to learn some [Information about Zambujeira do Mar](http://jgte.github.io/zh/en/whattodo). The renting costs and reservation process are available [here](http://jgte.github.io/zh/en/price).
 
 # House contacts
 
