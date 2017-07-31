@@ -157,11 +157,11 @@ Beach gear (beach towels, parasol, beach chairs) is not available at the house, 
 
 ## Laundry
 
-Please contact [*Sra. Zina Sirooka*](http://jgte.github.io/zh/en/desc#house-contacts) if you want some clothes to be washed and/or ironed. Arrange directly with her the payment for this service. The washing of the bed sheets and towels is included in the renting cost.
+Please contact [*Sra. Zina Sirooka*](http://jgte.github.io/zh/en/intro#house-contacts) if you want some clothes to be washed and/or ironed. Arrange directly with her the payment for this service. The washing of the bed sheets and towels is included in the renting cost.
 
 ## Cleaning
 
-Please contact [*Sra. Zina Sirooka*](http://jgte.github.io/zh/en/desc#house-contacts) if you want to have the house cleaned during your stay. Arrange directly with her the payment for this service. The cleaning of the house before you arrive is included in the renting cost.
+Please contact [*Sra. Zina Sirooka*](http://jgte.github.io/zh/en/intro#house-contacts) if you want to have the house cleaned during your stay. Arrange directly with her the payment for this service. The cleaning of the house before you arrive is included in the renting cost.
 
 ## Hot water
 
@@ -185,7 +185,7 @@ The light switches on the ground floor 50 years old. This means they sometimes m
 
 On the external southern wall of the house, close to the South-western corner, there is a small white plastic panel covering the valve that turns off the water in the whole house. If you exit through the front door, turn immediately to the left, go around the corner and you should see this white plastic panel a roughly waste height.
 
-Please contact [*Sra. Zina Sirooka*](http://jgte.github.io/zh/en/desc#house-contacts) if you need assistance.
+Please contact [*Sra. Zina Sirooka*](http://jgte.github.io/zh/en/intro#house-contacts) if you need assistance.
 
 ## Main electricity switches
 
@@ -205,7 +205,7 @@ The useful part of the panel is the first one. The three push buttons, from left
 
 The big switch below the three push button cuts the power to the whole house.
 
-Please contact [*Sra. Zina Sirooka*](http://jgte.github.io/zh/en/desc#house-contacts) if you need assistance.
+Please contact [*Sra. Zina Sirooka*](http://jgte.github.io/zh/en/intro#house-contacts) if you need assistance.
 
 
 ## Gas
@@ -225,7 +225,7 @@ In case you run out of gas, chances are that the unused tank is full. All you ne
 
 **Do not open both valves at the same time.** This will spill gas between the tanks, making it likely that both tanks need to be replaced at the same time and possibly preventing you from having hot water for a period of time.
 
-Please inform [*Sra. Zina Sirooka*](http://jgte.github.io/zh/en/desc#house-contacts) when a gas tank is empty so that she can order a new one to replace the depleted one.
+Please inform [*Sra. Zina Sirooka*](http://jgte.github.io/zh/en/intro#house-contacts) when a gas tank is empty so that she can order a new one to replace the depleted one.
 
 
 # Water quality
