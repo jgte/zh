@@ -9,6 +9,8 @@ The on-line version of this document can be found at:
 
 [http://jgte.github.io/zh/en/intro](http://jgte.github.io/zh/en/intro)
 
+Please be sure to read this page and description of the [Conditions of *Alojamento da Rua da Fonte*](http://jgte.github.io/zh/en/desc). It may also be interesting to you to learn some [Information about Zambujeira do Mar](http://jgte.github.io/zh/en/whattodo).
+
 # House contacts
 
 * Owner: João Encarnação, **+1 512 765 1351** (US) or **+351 962801954** (Portugal, SMS only)
