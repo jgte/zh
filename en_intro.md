@@ -36,7 +36,7 @@ The address of *Alojamento da Rua da Fonte* is:
     7630-776 Zambujeira do Mar
     Portugal
 
-The GPS coordinates are (from Google maps):
+The GPS coordinates are (from [Google maps](https://goo.gl/maps/wktc4L6BSeA2)):
 
     Latitude 37.5256252, Longitude -8.7868201
 
