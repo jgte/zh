@@ -5,7 +5,7 @@ subtitle: What to do
 permalink: /en/whattodo
 ---
 
-# Table of Contents
+# Information about Zambujeira do Mar
 * [Useful locations](#useful-locations)
 * [Festival Sudoeste](#festival-sudoeste)
 * [Weather](#weather)
