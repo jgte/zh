@@ -46,6 +46,7 @@ Previous guests have informed me of the following issues:
 
 You have access to the terrace, the balcony upstairs and the yard in front of the house (between the street and the western wall of the house). The driveway on the south and the yard on the east are only for emergency. The external kitchen door leads to the eastern yard, you can find the key of the lock hanging on the wall to the left of this door. You may also access the gas storage, if needed, see the section on operating the [gas](#gas) supply.
 
+
 # Appliances
 
 ## Stove and oven
