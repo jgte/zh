@@ -12,7 +12,7 @@ permalink: /en/whattodo
 
 The on-line version of this document can be found at:
 
-[http://jgte.github.io/zh/en/](http://jgte.github.io/zh/en/whattodo)
+[http://jgte.github.io/zh/en/whattodo](http://jgte.github.io/zh/en/whattodo)
 
 # Useful locations
 

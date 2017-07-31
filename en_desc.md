@@ -30,7 +30,7 @@ permalink: /en/desc
 
 The on-line version of this document can be found at:
 
-[http://jgte.github.io/zh/en/](http://jgte.github.io/zh/en/desc)
+[http://jgte.github.io/zh/en/desc](http://jgte.github.io/zh/en/desc)
 
 
 # Issues

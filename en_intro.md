@@ -5,6 +5,10 @@ subtitle: Alojamento da Rua da Fonte
 permalink: /en/intro
 ---
 
+The on-line version of this document can be found at:
+
+[http://jgte.github.io/zh/en/intro](http://jgte.github.io/zh/en/intro)
+
 # House contacts
 
 * Owner: João Encarnação, **+1 512 765 1351** (US) or **+351 962801954** (Portugal, SMS only)
