@@ -1,7 +1,7 @@
 ---
 layout: default
-title: English
-subtitle: Conditions of Alojamento da Rua da Fonte
+title: Conditions
+subtitle: Alojamento da Rua da Fonte
 permalink: /en/desc
 ---
 
