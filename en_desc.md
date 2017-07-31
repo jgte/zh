@@ -5,7 +5,7 @@ subtitle: Alojamento da Rua da Fonte
 permalink: /en/desc
 ---
 
-# Table of Contents
+# Conditions of *Alojamento da Rua da Fonte*
 * [Issues](#issues)
 * [Appliances](#appliances)
   * [Stove and oven](#stove-and-oven)
