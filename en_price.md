@@ -56,3 +56,5 @@ This means (number of nights: renting cost in euro):
 - 26: 2900 (3 weeks - 150 euro for 2 nights less - 150 euro for more than 2 weeks)
 - 27: 2975 (3 weeks - 75 euro for 1 night less - 150 euro for more than 2 weeks)
 - 28: 3050 (4 weeks - 150 euro for more than 2 weeks)
+
+The rent price includes cleaning before your arrival, [bed sheets and towels](http://jgte.github.io/zh/en/desc#bed-sheets-and-towels), use of all [appliances](http://jgte.github.io/zh/en/desc#appliances) and [WiFi internet]](http://jgte.github.io/zh/en/desc#wifi-internet). Normal wear and tear of furniture and appliances, including small accidental damages (with a repair cost lower than 200 euro) is covered by the rent cost as well. In there is excessive or deliberate damage anywhere in the house (doors, windows, floors, outside courtyard), furniture or appliances, you will be requested to cover the repair costs (legal litigation will be initiated in case you refuse).
