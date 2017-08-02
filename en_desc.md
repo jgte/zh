@@ -232,6 +232,6 @@ Please inform [*Sra. Zina Sirooka*](http://jgte.github.io/zh/en/intro#house-cont
 
 Officially, the tap water is fit to drink and I do it sometimes. However, I do not advise it during the peak summer months. Zambujeira being crowded combined with the dwindling water supply means the water quality decreases. This is specially the case during drought years. It would taste strongly of bleach, for example.
 
-At the beach, there is a creek flowing to the ocean. These waters are treated and do not present any health risk (cf. [Quercus atribui “Qualidade de Ouro” a cinco praias do Litoral Odemirense](http://cm-odemira.pt/PageGen.aspx?WMCM_PaginaId=27775&noticiaId=76849&pastaNoticiasReqId=54605), in Portuguese). However, the water is not drinkable and I highly advise that you keep young kids away from it.
+At the beach, there is a creek flowing to the ocean. These waters are treated and do not present any health risk (cf. [Quercus atribui “Qualidade de Ouro” a cinco praias do Litoral Odemirense](http://www.cm-odemira.pt/uploads/document/file/6899/76950.pdf), in Portuguese). However, the water is not drinkable and I highly advise that you keep young kids away from it.
 
 
