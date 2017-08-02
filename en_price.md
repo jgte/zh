@@ -24,7 +24,7 @@ I will issue a receipt to you on the last day of the renting period, through the
 
 The renting costs are:
 - 150 euro per night or 800 euro per week (7 nights);
-- 75 euro for every night less than a week (up to 2 nights);
+- 75 euro discount for every night less than a week (up to 2 nights);
 - 50 euro discount per week after the first week.
 
 This means (number of nights: renting cost in euro):
@@ -46,16 +46,16 @@ This means (number of nights: renting cost in euro):
 - 16: 1800 (2 weeks + 2 days - 100 euro for more than 2 weeks)
 - 17: 1950 (2 weeks + 3 days - 100 euro for more than 2 weeks)
 - 18: 2100 (2 weeks + 4 days - 100 euro for more than 2 weeks)
-- 19: 2150 (3 weeks - 150 euro for 2 nights less - 100 euro for more than 1 week)
-- 20: 2225 (3 weeks - 75 euro for 1 night less - 100 euro for more than 1 week)
-- 21: 2300 (3 weeks - 100 euro for more than 1 week)
-- 22: 2400 (3 weeks + 1 day - 150 euro for more than 2 weeks)
-- 23: 2550 (3 weeks + 2 days - 150 euro for more than 2 weeks)
-- 24: 2700 (3 weeks + 3 days - 150 euro for more than 2 weeks)
-- 25: 2850 (3 weeks + 4 days - 150 euro for more than 2 weeks)
-- 26: 2900 (3 weeks - 150 euro for 2 nights less - 150 euro for more than 2 weeks)
-- 27: 2975 (3 weeks - 75 euro for 1 night less - 150 euro for more than 2 weeks)
-- 28: 3050 (4 weeks - 150 euro for more than 2 weeks)
+- 19: 2150 (3 weeks - 150 euro for 2 nights less - 100 euro for more than 2 week)
+- 20: 2225 (3 weeks - 75 euro for 1 night less - 100 euro for more than 2 week)
+- 21: 2300 (3 weeks - 100 euro for more than 2 week)
+- 22: 2400 (3 weeks + 1 day - 150 euro for more than 3 weeks)
+- 23: 2550 (3 weeks + 2 days - 150 euro for more than 3 weeks)
+- 24: 2700 (3 weeks + 3 days - 150 euro for more than 3 weeks)
+- 25: 2850 (3 weeks + 4 days - 150 euro for more than 3 weeks)
+- 26: 2900 (3 weeks - 150 euro for 2 nights less - 150 euro for more than 3 weeks)
+- 27: 2975 (3 weeks - 75 euro for 1 night less - 150 euro for more than 3 weeks)
+- 28: 3050 (4 weeks - 150 euro for more than 3 weeks)
 
 The rent price includes cleaning before your arrival, [bed sheets and towels](http://jgte.github.io/zh/en/desc#bed-sheets-and-towels), use of all [appliances](http://jgte.github.io/zh/en/desc#appliances) and [WiFi internet](http://jgte.github.io/zh/en/desc#wifi-internet). Normal wear and tear of furniture and appliances, including small accidental damages (with a repair cost lower than 200 euro) is covered by the rent cost as well. If there is excessive or deliberate damage anywhere in the house (doors, windows, floors, courtyard, terrace, balcony), furniture or appliances, you will be requested to cover the repair costs (and legal litigation will be initiated in case you refuse).
 
