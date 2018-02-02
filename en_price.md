@@ -80,7 +80,12 @@ This means (number of nights: renting cost in euro):
 What is included
 ----------------
 
-The rent price includes cleaning before your arrival, [bed sheets and towels](http://jgte.github.io/zh/en/desc#bed-sheets-and-towels), use of all [appliances](http://jgte.github.io/zh/en/desc#appliances) and [WiFi internet](http://jgte.github.io/zh/en/desc#wifi-internet). You and the guest accompanying you are expected to take care not to cause any damage to the house, furniture and appliances. Normal wear and tear of furniture and appliances, including small accidental damages (with a repair cost lower than 200 euro) is covered by the rent cost. If there is excessive or deliberate damage anywhere in the house (indoors and outdoors), furniture or appliances, you will be requested to cover the repair costs. Legal litigation will be initiated in case you refuse.
+The rent price includes cleaning before your arrival, [bed sheets and towels](http://jgte.github.io/zh/en/desc#bed-sheets-and-towels), use of all [appliances](http://jgte.github.io/zh/en/desc#appliances) and [WiFi internet](http://jgte.github.io/zh/en/desc#wifi-internet).
+
+Damage
+------
+
+You and the guests accompanying you are expected to take care not to cause any damage to the house, furniture and appliances. Normal wear and tear of furniture and appliances, including small accidental damages (with a repair cost lower than 200 euro) is covered by the rent cost. If there is excessive or deliberate damage anywhere in the house (indoors and outdoors), furniture or appliances, you will be requested to cover the repair costs. Legal litigation will be initiated in case you refuse.
 
 Agreement
 ---------
