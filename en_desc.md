@@ -143,7 +143,7 @@ The TV is relatively modern (it's a flat screen TV) and has several digital inpu
 
 ## WiFi internet
 
-There is WiFi internet throughout the house. The SSID is *Lajinha* and contact me to get the password. The traffic is unlimited (in practice it is limited to 100Gb). Nevertheless, there is the remote possibility that I forgot to upgrade the internet plan (since there is no point in keeping the unlimited internet plan when the house is vacant), so please contact me if the internet speed is extremely low.
+There is WiFi internet throughout the house. The SSID is *Lajinha* and contact me to get the password. The traffic is [limited to 30Gb, with a maximum of two 1Gb recharges](https://www.vodafone.pt/internet-movel/detalhes-vodafone-on.html). 
 
 During the summer months, the influx of tourists causes the network to overload and the speed might not be as high as expected.
 
