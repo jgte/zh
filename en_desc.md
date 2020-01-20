@@ -14,7 +14,8 @@ permalink: /en/desc
   * [Fridge and freezer](#fridge-and-freezer)
   * [Washing machine](#washing-machine)
 <!--   * [Coffee machine](#coffee-machine)
- -->  * [TV](#tv)
+ -->  
+ * [TV](#tv)
 * [Services](#services)
   * [WiFi internet](#wifi-internet)
   * [Bed sheets and towels](#bed-sheets-and-towels)
