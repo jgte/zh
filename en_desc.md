@@ -13,8 +13,8 @@ permalink: /en/desc
   * [Microwaves and toaster](#microwaves-and-toaster)
   * [Fridge and freezer](#fridge-and-freezer)
   * [Washing machine](#washing-machine)
-  * [Coffee machine](#coffee-machine)
-  * [TV](#tv)
+<!--   * [Coffee machine](#coffee-machine)
+ -->  * [TV](#tv)
 * [Services](#services)
   * [WiFi internet](#wifi-internet)
   * [Bed sheets and towels](#bed-sheets-and-towels)
@@ -103,7 +103,7 @@ Blue is for cotton or linen clothes, yellow is for synthetic clothes and black i
 9. Push the small diamond-shaped button on the far right. After a couple of seconds, it should start making noises.
 10. After the program finishes, turn off the machine by pressing the round button, disconnect the power cord from the power socket and open the glass door.
 
-## Coffee machine
+<!-- ## Coffee machine
 
 1. Make sure there is water in the container located at the back (you may remove this container or fill it while attached).
 2. Be sure the machine is plugged in to electricity.
@@ -117,7 +117,7 @@ Blue is for cotton or linen clothes, yellow is for synthetic clothes and black i
 10. Press the button next to the green led. Coffee will start flowing.
 11. Once you have enough coffee, press the green button. This wills top the flow of coffee.
 
-You can find [the correct coffee capsules](https://www.mydeltaq.com/capsulas.aspx) at the big supermarket in São Teotónio.
+You can find [the correct coffee capsules](https://www.mydeltaq.com/capsulas.aspx) at the big supermarket in São Teotónio. -->
 
 ## TV
 
