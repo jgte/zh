@@ -13,7 +13,7 @@ The on-line version of this document can be found at:
 
 # House contacts
 
-* Owner: João Encarnação, **+1 512 765 1351** (US), **+351 962801954** (Portugal, SMS only) or by email (j_encarnacao (at) yahoo.com).
+* Owner: João Encarnação, **+31 618133787** (NL), **+351 962801954** (Portugal, SMS only) or by email (j_encarnacao (at) yahoo.com).
 * Host and local contact: Zina Sirooka: **+351 966 230 583**
 
 Please feel free to contact *Sra. Zina Sirooka* if you need anything that needs to be dealt during your stay, for example in anything needs to be arranged (cleaning, laundry), fixed (e.g. a broken window), clarified (e.g. an appliance doesn't work as expected), etc.
