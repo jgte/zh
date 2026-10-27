@@ -11,15 +11,11 @@ The on-line version of this document can be found at:
 
 **Please read this page and description of the [Conditions of *Alojamento da Rua da Fonte*](http://jgte.github.io/zh/en/desc)**. It may also be interesting to you to learn some [Information about Zambujeira do Mar](http://jgte.github.io/zh/en/whattodo). The renting costs and reservation process are available [here](http://jgte.github.io/zh/en/price).
 
-# House contacts
+# Local contact
 
-* Owner: João Encarnação, **+31 618133787** (NL), **+351 962801954** (Portugal, SMS only) or by email (j_encarnacao (at) yahoo.com).
-* Host and local contact: Zina Sirooka: **+351 966 230 583**
+Zina Sirooka: **+351 966 230 583** (WhatsApp, SMS, voice)
 
 Please feel free to contact *Sra. Zina Sirooka* if you need anything that needs to be dealt during your stay, for example in anything needs to be arranged (cleaning, laundry), fixed (e.g. a broken window), clarified (e.g. an appliance doesn't work as expected), etc.
-
-Please feel free to contact *João Encarnação* for feedback, complaints, future reservations or anything else you feel is important to discuss.
-
 
 # Arrival (important!)
 
@@ -32,7 +28,7 @@ Before arriving in Zambujeira, please contact *Sra. Zina Sirooka* and arrange wi
 
 The address of *Alojamento da Rua da Fonte* is:
 
-    Rua da Fonte 1
+    Rua da Fonte 13
     7630-776 Zambujeira do Mar
     Portugal
 
@@ -43,9 +39,9 @@ The GPS coordinates are (from [Google maps](https://goo.gl/maps/wktc4L6BSeA2)):
 
 # Getting there
 
-The following instructions assume you are travelling from Lisbon. Another option is to fly to Faro and rent a car from there. Public transport from Faro to Zambujeira is not easy, since you need to do a stop-over at Lagos.
+The following instructions assume you are traveling from Lisbon. Another option is to fly to Faro and rent a car from there. Public transport from Faro to Zambujeira is not easy, since you need to do a stop-over at Lagos.
 
-Let me know if you need help travelling form locations other than Lisbon.
+Let me know if you need help traveling form locations other than Lisbon.
 
 ## Car
 
@@ -102,7 +98,7 @@ If you know the date of your return to Lisbon, buy a return ticket, saving you s
 
 # Parking
 
-Park the car on the street, in front of the house. It is not possible to park the car in the driveway south of the house. During the summer, there are many cars and it might not be easy to park in front of the house. There are, however, many parking places in the surrounding streets.
+Park the car on the driveway south of the house.
 
 
 # Emergency contacts
@@ -118,13 +114,17 @@ Park the car on the street, in front of the house. It is not possible to park th
 
 The village of Zambujeira do Mar is a quiet and peaceful community; robberies are very uncommon. However, during the summer, with the inflow of tourists, it is always a good idea to leave the door locked when absent from the house. Be sure to properly close all windows (including those upstairs).
 
-Do not grant access into the house to anyone, including someone claiming to be me or to be acting on my behalf. The obvious exceptions are your host [*Sra. Zina Sirooka*](http://jgte.github.io/zh/en/intro#house-contacts), who you met when you arrived (or anyone accompanying her), and the police (most likely from the [GNR](http://www.gnr.pt) *Guarda Nacional Republicana* -- National Republican Guard -- who wears [characteristic uniforms](https://www.google.pt/search?q=farda+da+guarda+nacional+republicana&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjum6Kdx97LAhWHchQKHY8ZDtYQ_AUIBygB&biw=1358&bih=650)). Less obvious is to allow access to workers from the electricity company [EDP](http://www.edp.pt), who must be wearing a uniform and able to present identification, so that they can read the electricity counter on the wall to the right, immediately after the front door. There is no need to let them any further than the hall next to the front door.
+Do not grant access into the house to anyone, including someone claiming to be acting on my behalf. The obvious exceptions are:
+
+* your host [*Sra. Zina Sirooka*](http://jgte.github.io/zh/en/intro#house-contacts), who you met when you arrived (or anyone accompanying her), and
+
+* the police (most likely from the [GNR](http://www.gnr.pt) *Guarda Nacional Republicana* -- National Republican Guard -- who wears [characteristic uniforms](https://www.google.pt/search?q=farda+da+guarda+nacional+republicana&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjum6Kdx97LAhWHchQKHY8ZDtYQ_AUIBygB&biw=1358&bih=650)). 
+
+Do not allow access to workers from the electricity company [EDP](http://www.edp.pt), even if wearing a uniform and showing identification. There is no need for anyone to read the electricity counter (on the wall to the right, immediately after the front door). The electricity company gets the readings automatically.
 
 There is a small back garden (*horta* in Portuguese), which is laboured by Sr. Fabião. He enters through the front gate and walks up the driveway towards the garage on the east end of the courtyard at the back of the house. Do not be alarm in case you notice him thought the kitchen window.
 
 Be aware that the bathtubs (on both toilet rooms) are extremely slippery when wet. Do not climb inside without first setting the rubber mat. If the rubber mat is missing, contact [*Sra. Zina Sirooka*](http://jgte.github.io/zh/en/intro#house-contacts) to get a replacement. Please use the bathtub on the other toilet room until the new rubber mat is available.
-
-On the terrace, there is an unused water tank made of [fibrous cement](https://en.wikipedia.org/wiki/Asbestos_cement), which contains a small percentage of asbestos. There is no danger to health because the asbestos fibres are sequestered inside the material. Nevertheless, damage to this water tank may cause these fibres to get loose. Therefore, do not interact any way with this water tank. Please keep an eye on small children while in the terrace.
 
 On the toilet room of the ground floor, there is first aid supplies to the right, immediately after the front door.
 
